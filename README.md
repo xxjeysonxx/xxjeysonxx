@@ -26,12 +26,6 @@ Apasionado por la ciberseguridad, el desarrollo de bajo nivel y la optimización
 ![SQL Injector](https://img.shields.io/badge/SQL_Injector-Exploit_Development-red)
 ![Nmap](https://img.shields.io/badge/Nmap-Network_Mapping-important?logo=nmap)
 
-### **💻 Desarrollo**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-
 ### **☁️ Virtualización & Cloud**
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
