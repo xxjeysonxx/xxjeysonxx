@@ -13,6 +13,8 @@ Apasionado por la ciberseguridad, el desarrollo de bajo nivel y la optimización
 ![Metasploit](https://img.shields.io/badge/Metasploit-ED1C24?style=for-the-badge)
 ![Aircrack](https://img.shields.io/badge/Aircrack--ng-000000?style=for-the-badge)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![SQL Injector](https://img.shields.io/badge/SQL_Injector-Exploit_Development-red)
+![Nmap](https://img.shields.io/badge/Nmap-Network_Mapping-important?logo=nmap)
 
 ### **💻 Desarrollo**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
