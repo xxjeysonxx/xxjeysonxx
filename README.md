@@ -59,13 +59,3 @@ Apasionado por la ciberseguridad, el desarrollo de bajo nivel y la optimización
 ## 📫 Contacto
 - Email: Sooramaru@Snorlaxcoffee.com
 - Twitter: [@SooraMaru](https://x.com/SooraMaru2)
-
----
-
-## 🔥 Proyectos Destacados
-- **Análisis de Tráfico con Wireshark**: Detección de vulnerabilidades en redes locales.
-- **Automatización en AWS**: Scripts para apagar instancias automáticamente (¡nunca más $20 perdidos!).
-- **Homebrew para Arduino**: Proyectos de bajo nivel con sensores y actuadores.
-
-## 📊 Estadísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=dark)
