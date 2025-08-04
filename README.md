@@ -1,6 +1,6 @@
-# 👋 Hola, soy [Jeyson] 
+# 👋 Hola, soy [Tu Nombre] 
 
-¡Bienvenido/a a mi perfil de GitHub! Soy un **Desarrollador Full Stack** y **Especialista en Redes/Ciberseguridad** con experiencia en múltiples tecnologías. Me apasiona crear soluciones robustas y aprender constantemente.
+¡Bienvenido/a a mi perfil de GitHub! Soy un **Desarrollador Full Stack** y **Especialista en Redes/Ciberseguridad** con experiencia en múltiples tecnologías, desde desarrollo web hasta programación de bajo nivel. Me apasiona crear soluciones robustas y aprender constantemente.
 
 ## 🛠️ Habilidades Técnicas
 
@@ -26,6 +26,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Pascal](https://img.shields.io/badge/Pascal-B0CE4E?style=for-the-badge&logo=pascal&logoColor=black)
+![Assembly](https://img.shields.io/badge/Assembly-2C2255?style=for-the-badge&logo=assemblyscript&logoColor=white) *(x86/ARM para hacking, DevkitPro y optimización)*
 
 ### **Bases de Datos**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -38,3 +39,4 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-ED1C24?style=for-the-badge)
 ![SQL Injector](https://img.shields.io/badge/SQL%20Injector-Expert-important)
+![DevkitPro](https://img.shields.io/badge/DevkitPro-Homebrew_Development-blueviolet) *(Desarrollo de homebrew para consolas con ASM)*
