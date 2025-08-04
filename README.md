@@ -23,7 +23,7 @@ Apasionado por la ciberseguridad, el desarrollo de bajo nivel y la optimización
 ### **☁️ Virtualización & Cloud**
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) *(Sobreviví a un cobro de $20 por una instancia olvidada 😅)*  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ### **🌐 Redes & Sistemas**
@@ -35,6 +35,22 @@ Apasionado por la ciberseguridad, el desarrollo de bajo nivel y la optimización
 ### **📦 Recuperación de Datos**
 ![TestDisk](https://img.shields.io/badge/TestDisk-Expert-important)
 ![CrystalDiskInfo](https://img.shields.io/badge/CrystalDiskInfo-Diagnóstico_de_Discos-blue)
+
+### **Bases de Datos**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### **Herramientas**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-ED1C24?style=for-the-badge)
+![SQL Injector](https://img.shields.io/badge/SQL%20Injector-Expert-important)
+
+## 📫 Contacto
+- Email: Sooramaru@Snorlaxcoffee.com
+- Twitter: [@SooraMaru](https://x.com/SooraMaru2)
 
 ---
 
