@@ -1,7 +1,7 @@
 # 👋 Hola, soy SooraMaru
 
 <center>
-<img width="640" height="360" alt="image" src="https://github.com/user-attachments/assets/543a5bcf-a83a-45dd-9b7a-9a2a432d3f19" />
+<img width="640" height="360" alt="image" src="https://images.steamusercontent.com/ugc/954101135156565426/21D9841F8E03ED30D91A7720388E1E8D3A464FC0/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" />
 
 **Desarrollador Full Stack | Pentester | Especialista en Redes**  
 Apasionado por la ciberseguridad, el desarrollo de bajo nivel y la optimización de sistemas.  
